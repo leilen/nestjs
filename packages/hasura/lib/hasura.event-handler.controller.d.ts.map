@@ -1,0 +1,1 @@
+{"version":3,"file":"hasura.event-handler.controller.d.ts","sourceRoot":"","sources":["../src/hasura.event-handler.controller.ts"],"names":[],"mappings":"AAEA,OAAO,EAAE,mBAAmB,EAAE,MAAM,gCAAgC,CAAC;AACrE,OAAO,EAAE,WAAW,EAAE,MAAM,qBAAqB,CAAC;AAElD,qBACa,sBAAsB;IACrB,OAAO,CAAC,QAAQ,CAAC,mBAAmB;gBAAnB,mBAAmB,EAAE,mBAAmB;IAK/D,WAAW,CAAS,GAAG,EAAE,WAAW;CAI3C"}

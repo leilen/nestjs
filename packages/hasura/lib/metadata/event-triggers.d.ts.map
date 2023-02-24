@@ -1,0 +1,1 @@
+{"version":3,"file":"event-triggers.d.ts","sourceRoot":"","sources":["../../src/metadata/event-triggers.ts"],"names":[],"mappings":"AAAA,OAAO,EAGL,UAAU,EACX,MAAM,0CAA0C,CAAC;AAClD,OAAO,EACL,kBAAkB,EAClB,yBAAyB,EACzB,+BAA+B,EAChC,MAAM,sBAAsB,CAAC;AA+B9B,eAAO,MAAM,uBAAuB,WAC1B,+BAA+B,gBACzB,kBAAkB,sBACZ,yBAAyB,sBACzB,UAAU,KAC7B,UAAU,CAAC,gBAAgB,CA8B7B,CAAC"}

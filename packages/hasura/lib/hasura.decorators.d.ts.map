@@ -1,0 +1,1 @@
+{"version":3,"file":"hasura.decorators.d.ts","sourceRoot":"","sources":["../src/hasura.decorators.ts"],"names":[],"mappings":"AAOA,OAAO,EACL,wBAAwB,EACxB,+BAA+B,EAC/B,wCAAwC,EACzC,MAAM,qBAAqB,CAAC;AAE7B,eAAO,MAAM,kBAAkB,WAAY,wBAAwB,wKACP,CAAC;AAE7D,eAAO,MAAM,kBAAkB,0BAAgD,CAAC;AAEhF,eAAO,MAAM,yBAAyB,WAC5B,+BAA+B,wKACsB,CAAC;AAEhE,eAAO,MAAM,kCAAkC,WACrC,wCAAwC,wKAK/C,CAAC"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"hasura.event-handler.service.d.ts","sourceRoot":"","sources":["../src/hasura.event-handler.service.ts"],"names":[],"mappings":"AACA,OAAO,EAAE,WAAW,EAAE,MAAM,qBAAqB,CAAC;AAElD,qBACa,mBAAmB;IACvB,WAAW,CAAC,GAAG,EAAE,WAAW,GAAG,GAAG;CAI1C"}
